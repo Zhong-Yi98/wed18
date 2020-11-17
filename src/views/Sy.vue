@@ -47,7 +47,7 @@
          <el-submenu index="1-4">
           <template slot="title">商品管理</template>
           <el-menu-item index="1-4-1">商品列表</el-menu-item>
-          <el-menu-item index="1-4-1"><router-link to="/Spfl">商品分类</router-link></el-menu-item>
+          <el-menu-item index="1-4-1"><router-link to="/spfl">商品分类</router-link></el-menu-item>
         </el-submenu>
         <el-submenu index="1-4">
           <template slot="title">订单管理</template>
