@@ -15,7 +15,7 @@
 </el-dropdown>
     </div>
     <div class="pb">
-      <input type="text" class="login_text" placeholder="请输入搜索内容" />
+      <input type="text" class="login_text" placeholder="请输入搜索内容"/>
     </div>
     <div class="cx">
       <button>查询</button>
